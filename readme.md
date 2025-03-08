@@ -9,7 +9,6 @@ This project idea represents an innovative and comprehensive approach to persona
   
 - **Detailed Report Generation:**  
   Generates a comprehensive PDF report that includes an overview, patient details, medical information, alternative medication options, and blockchain verification details.  
-  - **Primary Method:** Gemini API integration  
   - **Fallback:** Custom jsPDF generation with enhanced design and structure
 
 - **Blockchain Verification:**  
