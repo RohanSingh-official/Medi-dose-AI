@@ -1,6 +1,6 @@
 # MediDose AI - Personalized Dosage Recommendation & Blockchain Verification
 
-MediDose AI is a web-based application designed to provide personalized medication dosage recommendations based on patient data, while ensuring transparency and integrity through blockchain verification. It features detailed PDF report generation powered by the Gemini API with a jsPDF fallback, enabling users to view comprehensive, well-structured reports.
+This project idea represents an innovative and comprehensive approach to personalized medicine, combining advanced machine learning techniques with blockchain technology to create a robust, transparent, and efficient drug dosage recommendation system
 
 ## Features
 
@@ -24,7 +24,7 @@ MediDose AI is a web-based application designed to provide personalized medicati
 - **PDF Generation:** jsPDF
 - **Charts:** Chart.js (Doughnut Chart)
 - **Blockchain Integration:** Custom smart contract functions (`recordDosageOnBlockchain`, `generatePredictionHash`)
-- **API Integration:** Gemini API
+
 
 ## Project Structure
 
